@@ -3,41 +3,45 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rakib Hossin</h1>
-<h3 align="center"> Learner AI Driven Full Stack Web Engineer</h3>
+<h3 align="center">Learner AI Driven Full Stack Web Engineer</h3>
 
 - 🔭 I’m currently working on **React Learning Projects**
-
 - 🌱 I’m currently learning **React.js, TypeScript and Next.js**
-
 - 👯 I’m looking to collaborate on **Frontend Web Development Projects**
-
 - 🤝 I’m looking for help with **Advanced React and Next.js**
-
-- 👨‍💻 All of my projects are available at [Coming Soon (Portfolio Website)](Coming Soon (Portfolio Website))
-
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
-
+- 👨‍💻 All of my projects are available at [Coming Soon (Portfolio Website)](#)
+- 📝 I regularly write articles on [Coming Soon](#)
 - 💬 Ask me about **HTML, CSS, JavaScript and React Basics**
-
-- 📫 How to reach me **hossinrakib414@gmail.com //rakibwork9@gmail.com**
-
-- 📄 Know about my experiences [Coming Soon (Resume)](Coming Soon (Resume))
-
+- 📫 How to reach me **hossinrakib414@gmail.com // rakibwork9@gmail.com**
+- 📄 Know about my experiences [Coming Soon (Resume)](#)
 - ⚡ Fun fact **I enjoy turning ideas into web applications. I love solving JavaScript problems. I learn by building real projects. Coffee + Coding = My favorite combo ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakib-hossen-722b232a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakib-hossen-722b232a7/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rj.rakib.rj.rakib.43516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rj.rakib.rj.rakib.43516/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hossinrakib4141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hossinrakib4141/" height="30" width="40" /></a>
-<a href="https://discord.gg/mdrakibhossen0444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdrakibhossen0444" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rakib-hossen-722b232a7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" style="border-radius: 20px;" />
+  </a>
+  <a href="https://facebook.com/rj.rakib.rj.rakib.43516/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
+  </a>
+  <a href="https://instagram.com/hossinrakib4141/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+  <a href="https://discord.gg/mdrakibhossen0444" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,git,vscode&theme=dark" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossinrakib414-ai&show_icons=true&locale=en&layout=compact" alt="hossinrakib414-ai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossinrakib414-ai&show_icons=true&locale=en" alt="hossinrakib414-ai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossinrakib414-ai&" alt="hossinrakib414-ai" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hossinrakib414-ai&show_icons=true&theme=react&border_radius=15" alt="Rakib's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossinrakib414-ai&layout=compact&theme=react&border_radius=15" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossinrakib414-ai&theme=react&border_radius=15" alt="GitHub Streak" />
+</p>
