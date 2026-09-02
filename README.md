@@ -40,11 +40,8 @@
 <h3 align="left">GitHub Contributions:</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hossinrakib414-ai/hossinrakib414-ai/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hossinrakib414-ai/hossinrakib414-ai/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hossinrakib414-ai/hossinrakib414-ai/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://snk-badge.vercel.app/api/snk?username=hossinrakib414-ai" alt="github contribution grid snake animation" />
 </p>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossinrakib414-ai&theme=react&border_radius=15" alt="GitHub Streak" />
 </p>
