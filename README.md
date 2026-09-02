@@ -37,11 +37,20 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,git,vscode&theme=dark" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats & Top Languages:</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossinrakib414-ai&show_icons=true&theme=react&border_radius=15" alt="Rakib's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossinrakib414-ai&layout=compact&theme=react&border_radius=15" alt="Top Languages" />
-  <br/><br/>
+  <!-- GitHub General Stats (Includes Total Stars, Commits, PRs, etc.) -->
+  <a href="https://github.com/hossinrakib414-ai">
+    <img src="https://github-readme-stats.vercel.app/api?username=hossinrakib414-ai&show_icons=true&theme=react&border_radius=15" alt="Rakib's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <a href="https://github.com/hossinrakib414-ai">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossinrakib414-ai&layout=compact&theme=react&border_radius=15" alt="Rakib's Top Languages" />
+  </a>
+</p> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossinrakib414-ai&theme=react&border_radius=15" alt="GitHub Streak" />
 </p>
