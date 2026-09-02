@@ -40,7 +40,7 @@
 <h3 align="left">GitHub Contributions:</h3>
 
 <p align="center">
-  <img src="https://svg.action-tokens.dev/snk/hossinrakib414-ai" alt="GitHub Contribution Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/hossinrakib414-ai/hossinrakib414-ai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossinrakib414-ai&theme=react&border_radius=15" alt="GitHub Streak" />
