@@ -37,20 +37,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,git,vscode&theme=dark" />
 </p>
 
-<h3 align="left">GitHub Stats & Top Languages:</h3>
+<h3 align="left">GitHub Contributions:</h3>
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/hossinrakib414-ai">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=hossinrakib414-ai&show_icons=true&theme=react&border_radius=15" alt="Rakib's GitHub Stats" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hossinrakib414-ai/hossinrakib414-ai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hossinrakib414-ai/hossinrakib414-ai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hossinrakib414-ai/hossinrakib414-ai/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <a href="https://github.com/hossinrakib414-ai">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hossinrakib414-ai&layout=compact&theme=react&border_radius=15" alt="Rakib's Top Languages" />
-  </a>
-</p> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossinrakib414-ai&theme=react&border_radius=15" alt="GitHub Streak" />
 </p>
